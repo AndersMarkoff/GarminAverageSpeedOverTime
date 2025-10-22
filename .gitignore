@@ -1,6 +1,10 @@
 # Garmin developer key
 developer_key
 
+#Garmin generated files
+bin/
+exports/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
