@@ -1,0 +1,10 @@
+<fitContributions>
+    <fitField id="0" 
+        displayInChart="true" 
+        sortOrder="0" 
+        precision="2" 
+        chartTitle="Average speed"
+        dataLabel="AVG SPD" 
+        unitLabel="km/h"
+        fillColor="#0fc491" />
+</fitContributions>
